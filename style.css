@@ -1,0 +1,23 @@
+/* 全局样式 */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: '微软雅黑', sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* 模块样式 */
+.about, .projects {
+  width: 80%;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+.project-card {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
